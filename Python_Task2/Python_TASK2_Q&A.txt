@@ -1,0 +1,18 @@
+1. Why list is used?
+=>  	Lists are ordered and mutable.
+	Lists elements can be string ,integer & float .
+	As it is ordered elements can be access using index.
+	It allows duplication of elements.
+	It is useful for preserving a sequence of data and further iterating over it.
+
+2. How do lists and sets differ?
+=>  	Lists are ordered and mutable while sets are unordered and immutable.
+	In list duplication of element is allowed, set don't allow duplication.
+	Positional access is allowed in list and not in sets.
+	Sets uses concept of hashing unlike list which is ordered.
+	
+3.Application of dictionaries with a real world example.
+=>  	let say we have manage the details of college student, then by assigning a enrollement number as key and their details as key value a concept of dictionary can be used.
+	It is also used in google maps where name of location is key and the co-ordinates of location is key value. 
+	
+
