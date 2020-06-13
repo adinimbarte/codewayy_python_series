@@ -9,7 +9,7 @@ few practice code are uploaded here.*
     ### **Files**
     * python program containing integer and float operations
     * python program containing introduction and marksheet
- ## Day 2 tasks
+## 2. Day 2 tasks
   * Slicing and indexing of string in Python
   * Lists, Tuples, Sets in Python
   * Dictionaries in Python
