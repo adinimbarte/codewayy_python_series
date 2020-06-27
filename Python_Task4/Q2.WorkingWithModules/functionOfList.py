@@ -14,7 +14,7 @@ def findMax(List) :
             max = i
     print("The maximum number in the list is: ", max)
 
-#created a function to find maximum number in the list
+#created a function to find minimum number in the list
 def findMin(List):
     min = List[0]
     for i in List:
