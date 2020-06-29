@@ -1,0 +1,3 @@
+This is a temporary file
+for task 5
+to demonstrate working of file handling.
